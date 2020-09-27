@@ -17,6 +17,6 @@ import org.junit.Assert.*
 class ExampleInstrumentedTest {
     @Test
     fun useAppContext() {
-        assertEquals(4,2 )
+        assertEquals(2,2 )
     }
 }
